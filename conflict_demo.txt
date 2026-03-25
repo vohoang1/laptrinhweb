@@ -1,0 +1,5 @@
+# Conflict Demonstration File  
+  
+This file is used to demonstrate Git conflict resolution.  
+  
+Name: Master Branch 
