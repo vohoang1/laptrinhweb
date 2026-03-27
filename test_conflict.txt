@@ -1,1 +1,8 @@
 Da resolve conflict - Ket hop ca 2  
+
+<<<<<<< HEAD
+Nội dung của tdc 2
+=======
+Nội dung của tdc 1
+>>>>>>> 1a2b3c4d...
+
